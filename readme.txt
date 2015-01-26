@@ -32,6 +32,10 @@ If you love the plugin, please consider rating it and clicking on "it works" but
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Click on "Customize" > "Favicon" and upload your favicon
 
+== Screenshots ==
+
+
+
 == Changelog ==
 
 = 1.0.0
