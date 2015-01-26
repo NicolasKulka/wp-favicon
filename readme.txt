@@ -1,7 +1,7 @@
 === Favicon WP ===
-Contributors: nicolaskulka
+Contributors: Plateforme WP Digital, Nicolas Kulka
 Author URI: http://www.plateformewpdigital.fr
-Plugin URL: http://www.plateformewpdigital.fr
+Plugin URL: http://www.plateformewpdigital.fr/plugins
 Requires at Least: 3.2
 Tested Up To: 4.1
 Tags: theme, favicon, admin, blog, wordpress, icon, iphone, apple touch, apple touch icon, upload
@@ -16,6 +16,10 @@ This plugin allows you to add upload custom favicon & Apple touch icon for your 
 Now easily upload a favicon and apple touch icon for your WordPress website and dashboard.
 
 My Links =
+
+* Twitter @[plateformewp](https://twitter.com/plateformewp)
+* Facebook [Plateforme WP Digital](https://www.facebook.com/themeswpfrance)
+* Google+ [Plateforme WP Digital](https://plus.google.com/u/0/101743421589257173603/)
 
 * Twitter @[KulkaNicolas](https://twitter.com/KulkaNicolas)
 * Google+ [Nicolas Kulka](https://plus.google.com/u/0/105181416749428983955/)
