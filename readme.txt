@@ -1,4 +1,4 @@
-=== Favicon WP ===
+=== PWD WP Favicon ===
 Contributors: Plateforme WP Digital, Nicolas Kulka
 Author URI: http://www.plateformewpdigital.fr
 Plugin URL: http://www.plateformewpdigital.fr/plugins

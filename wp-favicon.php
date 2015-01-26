@@ -1,6 +1,6 @@
 <?php
 /*
-  Plugin Name: WP Favicon
+  Plugin Name: PWD WP Favicon
   Version: 1.0
   Plugin URI: http://www.plateformewpdigital.fr/plugins/wp-favicon
   Description: Add favicon
