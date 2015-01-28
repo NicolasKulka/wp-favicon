@@ -1,5 +1,5 @@
 === PWD WP Favicon ===
-Contributors: Plateforme WP Digital, Nicolas Kulka
+Contributors: plateforme-wp-digital, nicolaskulka
 Author URI: http://www.plateformewpdigital.fr
 Plugin URL: http://www.plateformewpdigital.fr/plugins
 Requires at Least: 3.2
@@ -13,9 +13,17 @@ This plugin allows you to add upload custom favicon & Apple touch icon for your 
 
 == Description ==
 
+= English =
 Now easily upload a favicon and apple touch icon for your WordPress website and dashboard.
 
-My Links =
+If you love the plugin, please consider rating it and clicking on "it works" button.
+
+= Français =
+Télécharger facilement un favicon et l'icône Apple Touch pour votre site WordPress et votre tableau de bord.
+
+Si vous aimez le plugin, laisser une évaluation et cliquer sur ​​le bouton «it works».
+
+= My Links =
 
 * Twitter @[plateformewp](https://twitter.com/plateformewp)
 * Facebook [Plateforme WP Digital](https://www.facebook.com/themeswpfrance)
@@ -24,19 +32,26 @@ My Links =
 * Twitter @[KulkaNicolas](https://twitter.com/KulkaNicolas)
 * Google+ [Nicolas Kulka](https://plus.google.com/u/0/105181416749428983955/)
 
-If you love the plugin, please consider rating it and clicking on "it works" button.
+* [Plateforme WP digital](http://www.plateformewpdigital.fr/)
 
 == Installation ==
 
-1. Upload the directory `/faviconWP/` to the `/wp-content/plugins/` directory
+= English =
+1. Upload the directory `/wp-favicon/` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Click on "Customize" > "Favicon" and upload your favicon
 
+= Français =
+1. Envoyez le dossier wp-favicon dans le dossier /wp-content/plugins/
+2. Activez WP Favicon sur la page des plugins de WordPress
+3. Configurez le plugin en allant dans le menu Personnalisé placé dans le menu Apparence
+
 == Screenshots ==
 
-
+1. Uploads your favicon (WordPress >= 4.0)
+2. Uploads your favicon (WordPress < 4.0)
 
 == Changelog ==
 
-= 1.0.0
+= 1.0.0 =
 * This is the first version
