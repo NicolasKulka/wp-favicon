@@ -23,12 +23,12 @@ class PWD_FAVICON_Plugin {
 		if(method_exists('WP_Customize_Manager', 'add_panel')) {
 			$wp_customize->add_panel( 'panel_custom_favicon', array(
 	            'priority'   => 35,
-	            'title'      => __('Favicon', 'wp-favicon'),
+	            'title'      => __('Favicon', 'pwd-wp-favicon'),
 	            'capability' => 'edit_theme_options',
 	        ) );
 		}
         $wp_customize->add_section( 'custom_favicon_section', array(
-            'title'     => __('Favicon', 'wp-favicon'),
+            'title'     => __('Favicon', 'pwd-wp-favicon'),
             'priority'  => 35,
             'panel'	 	=> 'panel_custom_favicon'
         ));
@@ -39,7 +39,7 @@ class PWD_FAVICON_Plugin {
             $wp_customize,
             'pwd_favicon',
             array(
-                'label'    => __( 'Add a favicon for website size 16*16 or 32*32', 'wp-favicon' ),
+                'label'    => __( 'Add a favicon for website size 16*16 or 32*32', 'pwd-wp-favicon' ),
                 'section'  => 'custom_favicon_section',
                 'settings' => 'pwd_favicon',
             )
@@ -49,7 +49,7 @@ class PWD_FAVICON_Plugin {
             $wp_customize,
             'pwd_admin_favicon',
             array(
-                'label'    => __( 'Add a favicon for admin size 16*16 or 32*32', 'wp-favicon' ),
+                'label'    => __( 'Add a favicon for admin size 16*16 or 32*32', 'pwd-wp-favicon' ),
                 'section'  => 'custom_favicon_section',
                 'settings' => 'pwd_admin_favicon',
             )
@@ -61,7 +61,7 @@ class PWD_FAVICON_Plugin {
             $wp_customize,
             'pwd_apple_favicon',
             array(
-                'label'    => __( 'Add a Apple Touch Icon for website size 16*16 or 32*32', 'wp-favicon' ),
+                'label'    => __( 'Add a Apple Touch Icon for website size 16*16 or 32*32', 'pwd-wp-favicon' ),
                 'section'  => 'custom_favicon_section',
                 'settings' => 'pwd_apple_favicon',
             )
@@ -71,7 +71,7 @@ class PWD_FAVICON_Plugin {
             $wp_customize,
             'pwd_apple_admin_favicon',
             array(
-                'label'    => __( 'Add a Apple Touch Icon for admin size 16*16 or 32*32', 'wp-favicon' ),
+                'label'    => __( 'Add a Apple Touch Icon for admin size 16*16 or 32*32', 'pwd-wp-favicon' ),
                 'section'  => 'custom_favicon_section',
                 'settings' => 'pwd_apple_admin_favicon',
             )
@@ -81,7 +81,7 @@ class PWD_FAVICON_Plugin {
             $wp_customize,
             'pwd_apple_basic_favicon',
             array(
-                'label'    => __( 'Disable Curved Border & reflective shine for Apple touch icon', 'wp-favicon' ),
+                'label'    => __( 'Disable Curved Border & reflective shine for Apple touch icon', 'pwd-wp-favicon' ),
                 'section'  => 'custom_favicon_section',
                 'settings' => 'pwd_apple_basic_favicon',
                 'type'	   => 'checkbox'

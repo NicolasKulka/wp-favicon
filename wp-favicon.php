@@ -8,7 +8,7 @@
   Author URI: http://www.plateformewpdigital.fr
   Domain Path: languages
   Network: false
-  Text Domain: wp-favicon
+  Text Domain: pwd-wp-favicon
  */
 // don't load directly
 if ( !defined( 'ABSPATH' ) ) {
@@ -37,7 +37,7 @@ _pwd_favicon_load_files( PWD_FAVICON_DIR . 'classes/', array('plugin') );
 add_action( 'plugins_loaded', 'init_pwd_faviconplugin' );
 function init_pwd_faviconplugin() {
 
-    load_plugin_textdomain( 'wp-favicon', false, basename( dirname( __FILE__ ) ) . '/languages/' );
+    load_plugin_textdomain( 'pwd-wp-favicon', false, basename( dirname( __FILE__ ) ) . '/languages/' );
 
 	// Load client
 	new PWD_FAVICON_Plugin();
