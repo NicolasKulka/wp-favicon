@@ -9,12 +9,12 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin allows you to add upload custom favicon & Apple touch icon for your website and WordPress Dashboard using API customizer.
+This plugin allows you to upload a custom favicon & Apple touch icon for your website and your WordPress Dashboard using API customizer.
 
 == Description ==
 
 = English =
-Now easily upload a favicon and apple touch icon for your WordPress website and dashboard.
+Now easily upload a favicon and Apple Touch icon for your WordPress website and dashboard.
 
 If you love the plugin, please consider rating it and clicking on "it works" button.
 
