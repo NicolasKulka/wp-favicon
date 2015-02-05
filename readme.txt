@@ -18,10 +18,14 @@ Now easily upload a favicon and Apple Touch icon for your WordPress website and 
 
 If you love the plugin, please consider rating it and clicking on "it works" button.
 
+Come translate plugin : https://www.transifex.com/projects/p/pwd-wp-favicon/
+
 = Français =
 Télécharger facilement un favicon et l'icône Apple Touch pour votre site WordPress et votre tableau de bord.
 
 Si vous aimez le plugin, laisser une évaluation et cliquer sur ​​le bouton «it works».
+
+Venez traduire le plugin : https://www.transifex.com/projects/p/pwd-wp-favicon/
 
 = My Links =
 
