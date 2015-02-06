@@ -2,9 +2,9 @@
 # This file is distributed under the same license as the PWD WP Favicon package.
 msgid ""
 msgstr ""
-"Project-Id-Version: PWD WP Favicon 1.0\n"
+"Project-Id-Version: PWD WP Favicon 1.1\n"
 "Report-Msgid-Bugs-To: http://www.plateformewpdigital.fr/\n"
-"POT-Creation-Date: 2015-02-06 10:22:41+00:00\n"
+"POT-Creation-Date: 2015-02-06 11:21:11+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -57,7 +57,7 @@ msgid "http://www.plateformewpdigital.fr/plugins/wp-favicon"
 msgstr ""
 
 #. Description of the plugin/theme
-msgid "Add favicon"
+msgid "Add custom favicon & Apple touch icon for your website"
 msgstr ""
 
 #. Author of the plugin/theme
