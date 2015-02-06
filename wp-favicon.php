@@ -1,9 +1,9 @@
 <?php
 /*
   Plugin Name: PWD WP Favicon
-  Version: 1.0
+  Version: 1.1
   Plugin URI: http://www.plateformewpdigital.fr/plugins/wp-favicon
-  Description: Add favicon
+  Description: Add custom favicon & Apple touch icon for your website
   Author: Plateforme WP Digital, Kulka Nicolas
   Author URI: http://www.plateformewpdigital.fr
   Domain Path: languages
@@ -16,7 +16,7 @@ if ( !defined( 'ABSPATH' ) ) {
 }
 
 // Plugin constants
-define( 'PWD_FAVICON_VERSION', '1.0' );
+define( 'PWD_FAVICON_VERSION', '1.1' );
 define( 'PWD_FAVICON_FOLDER', 'wp-favicon' );
 
 define( 'PWD_FAVICON_URL', plugin_dir_url( __FILE__ ) );
