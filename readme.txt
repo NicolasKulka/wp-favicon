@@ -5,7 +5,7 @@ Plugin URL: http://www.plateformewpdigital.fr/plugins
 Requires at Least: 3.2
 Tested Up To: 4.1
 Tags: theme, favicon, admin, blog, wordpress, icon, iphone, apple touch, apple touch icon, upload
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
