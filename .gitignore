@@ -10,9 +10,8 @@ sitemap.xml
 *.log
 wp-content/cache/
 wp-content/backups/
-sitemap.xml
 sitemap.xml.gz
 .settings
 .project
 .DS_Store
-.DS_Store
+/node_modules/
