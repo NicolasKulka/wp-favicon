@@ -1,11 +1,11 @@
-=== PWD WP Favicon ===
+﻿=== PWD WP Favicon ===
 Contributors: plateforme-wp-digital, nicolaskulka
 Author URI: http://www.plateformewpdigital.fr
 Plugin URL: http://www.plateformewpdigital.fr/plugins
 Requires at Least: 3.2
 Tested Up To: 4.1
 Tags: theme, favicon, admin, blog, wordpress, icon, iphone, apple touch, apple touch icon, upload
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -26,6 +26,13 @@ Télécharger facilement un favicon et l'icône Apple Touch pour votre site Word
 Si vous aimez le plugin, laisser une évaluation et cliquer sur ​​le bouton «it works».
 
 Venez traduire le plugin : https://www.transifex.com/projects/p/pwd-wp-favicon/
+
+= Localization =
+
+* French
+* English
+* German
+* Lithuanian
 
 = My Links =
 
@@ -57,5 +64,11 @@ Venez traduire le plugin : https://www.transifex.com/projects/p/pwd-wp-favicon/
 
 == Changelog ==
 
-= 1.0.0 =
+= 1.0 =
 * This is the first version
+
+= 1.1 =
+* Added translation files German
+* Added translation files Lithuanian
+* Updated translation files French
+
