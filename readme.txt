@@ -79,3 +79,4 @@ Venez traduire le plugin : https://www.transifex.com/projects/p/pwd-wp-favicon/
 
 = 1.3 =
 * Added translation files Swedish
+* Added settings links
