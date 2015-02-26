@@ -17,6 +17,8 @@ class PWD_FAVICON_Plugin {
 		// Add Favicon to website backend
 		add_action( 'admin_head', array( __CLASS__, 'pwd_favicon_backend' ) );
 		add_action( 'login_head', array( __CLASS__, 'pwd_favicon_backend' ) );
+
+        add_filter( 'plugin_row_meta', array( __CLASS__, 'pwd_favicon_plugin_row_meta' ), 99, 2 );
 	}
 
 	public static function register( $wp_customize ) {
@@ -125,4 +127,14 @@ class PWD_FAVICON_Plugin {
 	    	}
 	    }
 	}
+
+    public static function pwd_favicon_plugin_row_meta( $links, $file ) {
+
+        if ( strstr( 'wp-favicon/wp-favicon.php', $file ) != '' ) {
+            // Link to the plugin config page
+            $links[] = '<a href="' . admin_url( 'customize.php' ) . '">' . __( 'Settings' ) . '</a>';
+        }
+     
+        return $links;
+    }
 }
